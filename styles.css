@@ -191,6 +191,12 @@ p {
 
   }
 
+  .menu li {
+
+    border-bottom: 1.3px solid #0c0b0b15;
+
+  }
+
   .menu.active {
     display: flex;
     /* Show the dropdown menu when active */
@@ -212,7 +218,7 @@ p {
 
   .menu-toggle {
     position: absolute;
-    left: 50%;
+    left: 90%;
     transform: translateX(-50%);
     display: block;
     font-size: larger;
@@ -326,11 +332,14 @@ header:hover {
   font-weight: lighter;
   text-transform: uppercase;
   padding: 5px 10px;
-  transition: color 0.3s ease;
+  
+  
 }
 
 .menu a:hover {
   color: #888;
+  
+
 }
 
 /* Ensure responsiveness */
@@ -338,6 +347,7 @@ header:hover {
   .menu ul {
     flex-direction: column;
     gap: 20px;
+    
   }
 
   .menu a {
@@ -1378,3 +1388,8 @@ div {
     font-size: medium;
   }
 }
+
+
+
+
+
