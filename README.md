@@ -1,6 +1,8 @@
+# Afnanz Event Planner Website
+
 This is a simple and elegant website created for **Afnanz**, a weddings and events planner company.
 
-**Afnanz.site** 
+🔗 [Visit the website](https://afnanz.site)
 
 ## Features
 
@@ -17,4 +19,4 @@ This is a simple and elegant website created for **Afnanz**, a weddings and even
 
 ## Purpose
 
-This website was developed to showcase Afnanz's services and build their online presence.  
+This website was developed to showcase Afnanz's services and build their online presence.
