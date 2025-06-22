@@ -1,7 +1,7 @@
-# Ignore everything
+
 *
 
-# But do not ignore these files
+
 !index.html
 !gallery.html
 !testimonials.html
@@ -9,5 +9,5 @@
 !about.html
 !README.md
 
-# Also do not ignore the .gitignore file itself
+
 !.gitignore
