@@ -1,12 +1,14 @@
 
 *
 
-!photos
+
 !index.html
 !gallery.html
 !testimonials.html
 !styles.css
 !about.html
+!photos/
+!photos/**/*
 !README.md
 
 
