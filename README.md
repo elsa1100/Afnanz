@@ -1,5 +1,7 @@
 This is a simple and elegant website created for **Afnanz**, a weddings and events planner company.
 
+**Afnanz.site** 
+
 ## Features
 
 - Photo Gallery  
